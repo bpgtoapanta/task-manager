@@ -33,10 +33,6 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
    ```bash
    npm install
 
-3. Instala las dependencias necesarias:
-   ```bash
-   npm install
-
-4. Ejecución local
+3. Ejecución local
    ```bash
    node app.js
